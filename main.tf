@@ -1,7 +1,7 @@
 provider "aws" {
   region = "eu-west-1"
-  access_key = "AKIAVCTN6CCZS3JLEOUN"
-  secret_key = "wqdx+D6LHI5HllB+YGAcN0rG7oQyw1ztevuivl6F"
+  access_key = "ur access key"
+  secret_key = "your secret key"
 }
 
 ##automate the creating of keypair
