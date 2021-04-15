@@ -7,3 +7,5 @@
 *.tfvars
 #the hcl lock file
 *.lock.hcl
+# avoid uploading script files
+*.sh
